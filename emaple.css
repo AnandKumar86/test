@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(223, 207, 187);
+}
+form.f {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+
